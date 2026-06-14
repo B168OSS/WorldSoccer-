@@ -1,0 +1,6 @@
+{
+  "name": "World Soccer",
+  "description": "World Soccer™: A thrilling 2D penalty shootout soccer game with Pi Network integration, global competition, lives, and dynamic upgrades.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
